@@ -1,5 +1,5 @@
 # FastAPI Authentication & Authorization API
-
+# TO BE CONTINUED
 A RESTful authentication and authorization API built with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **JWT**. This project demonstrates secure user authentication, password hashing with Argon2, role-based authorization, and protected endpoints.
 
 ---
